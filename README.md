@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>.
 <div>
-	<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/wupa-439140"><img src="https://w.bookcdn.com/weather/picture/1_439140_1_1_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=39296&domid=w209&anc_id=36608"  alt="booked.net"/></a><!-- weather widget end -->
+	<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/Kano-439140"><img src="https://w.bookcdn.com/weather/picture/1_439140_1_1_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=39296&domid=w209&anc_id=36608"  alt="booked.net"/></a><!-- weather widget end -->
 </div>
 </p>
 <h3>Where to find me</h3>
