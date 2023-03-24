@@ -44,11 +44,11 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/sheriffsaka/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://felixmcdon.com"><b>Felix McDon Book Store Website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
