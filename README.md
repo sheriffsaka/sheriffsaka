@@ -50,20 +50,7 @@ Here are some ideas to get you started:
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/felixmcdon.come?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+	 
   </tbody>
 </table>
 <h3>My latest posts</h3>
@@ -71,13 +58,8 @@ Here are some ideas to get you started:
   <li><a href="https://sactechcomputers.wordpress.com/2023/03/04/my-blockchain-training-journey/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> My Blockchain Training Journey</b></a><br/><i>A proposed project in the NITDA Blockchain Programme!.</i></li>
   <li><a href="https://sactechcomputers.wordpress.com/2022/07/14/how-to-put-your-vtu-business-online/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" />How to put your VTU business Online</b></a><br/><i>To own similar platform is not far from what you or any investor can get.</i></li>
     <li><a href="https://sactechcomputers.wordpress.com/2022/06/12/side-hustle-for-all-category-of-personnel/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Side Hustle for All Categories of Personnel</b></a><br/><i>Working out alternative plan to earn extra income.</i></li>
-  <li><a href="https://sactechcomputers.wordpress.com/2022/02/10/learn-new-skills-as-side-hustle/"><b>Learn New Skills as Side Hustle</b></a><br/><i>If you are a student or an employee and needs to update your skill set. What you need is to up-skill...</i></li>
-  
+  <li><a href="https://sactechcomputers.wordpress.com/2022/02/10/learn-new-skills-as-side-hustle/"><b>Learn New Skills as Side Hustle</b></a><br/><i>If you are a student or an employee and needs to update your skill set. What you need is to up-skill...</i></li>  
 </p>
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 23 March, 13:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 <h3>Welcome to Kano, Nigeria!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
