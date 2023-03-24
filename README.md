@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>I am currently working on</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td><a href="https://felixmcdon.com"><b>Felix McDon Book Store Website</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/Felix-McDon-Book-Store-Website?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/felixmcdon.come?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
