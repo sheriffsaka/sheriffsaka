@@ -81,7 +81,11 @@ Here are some ideas to get you started:
 
 <h3>Welcome to Kano, Nigeria!</h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>.
+<div>
+	<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/wupa-439140"><img src="https://w.bookcdn.com/weather/picture/1_439140_1_1_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=39296&domid=w209&anc_id=36608"  alt="booked.net"/></a><!-- weather widget end -->
+</div>
+</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/sheriffsaka" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Simplysaka" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saka-sheriff-alade-924b5278/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@adetunji_alade2005" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
