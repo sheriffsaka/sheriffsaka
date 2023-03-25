@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>Welcome to Kano, Nigeria!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p><img width="200" src="https://www.instagram.com/p/CnmW2NFKSir/" /> <img width="200" src="https://www.instagram.com/p/Cne08eoN7W-/" /> <img width="200" src="https://www.instagram.com/p/CgpjGIALwRH/" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><!--<br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>. -->
 <div>
 	<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/kano-289720"><img src="https://w.bookcdn.com/weather/picture/1_289720_1_1_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=39297&domid=w209&anc_id=19246"  alt="booked.net"/></a><!-- weather widget end -->
