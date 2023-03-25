@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> <b>I'm Sheriff, Fullstack developer</b> from <img src="🇳🇬" width="13"/> <b>Kwara, Nigeria</b>, currently living in <img src="" width="13"/> <b>Kano, Nigeria</b>. </p>
+<p>Welcome to my page! </br> <b>I'm Sheriff, Fullstack developer</b> from <b>Kwara, Nigeria</b>, currently living in <b>Kano, Nigeria</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> 
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -48,7 +47,15 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/felixmcdon.come?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/felixmcdon.com?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  
+   <tr>
+      <td><a href="https://github.com/sheriffsaka/graphicalpasswordauthenticatio"><b>Graphical Password Authentication</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/sheriffsaka/graphicalpasswordauthenticatio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/sheriffsaka/graphicalpasswordauthenticatio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/sheriffsaka/graphicalpasswordauthenticatio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sheriffsaka/graphicalpasswordauthenticatio?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	 
   </tbody>
