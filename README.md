@@ -62,15 +62,15 @@ Here are some ideas to get you started:
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://sactechcomputers.wordpress.com/2023/03/04/my-blockchain-training-journey/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> My Blockchain Training Journey</b></a><br/><i>A proposed project in the NITDA Blockchain Programme!.</i></li>
+  <li><a href="https://sactechcomputers.wordpress.com/2023/03/04/my-blockchain-training-journey/"><b>My Blockchain Training Journey</b></a><br/><i>A proposed project in the NITDA Blockchain Programme!.</i></li>
   <li><a href="https://sactechcomputers.wordpress.com/2022/07/14/how-to-put-your-vtu-business-online/"><b>How to put your VTU business Online</b></a><br/><i>To own similar platform is not far from what you or any investor can get.</i></li>
     <li><a href="https://sactechcomputers.wordpress.com/2022/06/12/side-hustle-for-all-category-of-personnel/"><b> Side Hustle for All Categories of Personnel</b></a><br/><i>Working out alternative plan to earn extra income.</i></li>
   <li><a href="https://sactechcomputers.wordpress.com/2022/02/10/learn-new-skills-as-side-hustle/"><b>Learn New Skills as Side Hustle</b></a><br/><i>If you are a student or an employee and needs to update your skill set. What you need is to up-skill...</i></li>  
 </p>
 
 <h3>Welcome to Kano, Nigeria!</h3>
-<p><img width="200" src="https://www.instagram.com/p/CnmW2NFKSir/" /> <img width="200" src="https://www.instagram.com/p/Cne08eoN7W-/" /> <img width="200" src="https://www.instagram.com/p/CgpjGIALwRH/" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><!--<br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>. -->
+<p></p>
+<p>Connect with me on Instagram <a href="https://www.instagram.com/sakasheriffalade/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sakasheriffalade!</a><!--<br/>Currently, the weather is: <b>https://worldweather.wmo.int/en/city.html?cityId=2050</b>. -->
 <div>
 	<!-- weather widget start --><a target="_blank" href="https://www.booked.net/weather/kano-289720"><img src="https://w.bookcdn.com/weather/picture/1_289720_1_1_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=39297&domid=w209&anc_id=19246"  alt="booked.net"/></a><!-- weather widget end -->
 </div>
